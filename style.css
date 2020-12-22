@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: rgb(235, 228, 168);
+}
+
+div{
+    margin: 10px;
+    background-color: rgb(31, 243, 208);
+}
+
+input{
+    margin-top: 20px;
+    background-color: rgb(236, 161, 190);
+    color: black;
+    border-radius: 3px;
+    border-color: black;
+}
+
+button{
+    margin-top: 20px;
+}
+
+#display_para_1{
+    font-size: 20px;
+    margin-top: 400px;
+    background-color:tomato;
+    color:white;
+    float:center;
+}
+
+#display_para_2{
+    font-size: 20px;
+    background-color:tomato;
+    color:white;
+    float:center;
+}
